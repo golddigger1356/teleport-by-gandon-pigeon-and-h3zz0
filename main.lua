@@ -4,6 +4,8 @@
 local Whitelist = {
     "",
     "anonyme18022",
+    "Protkt_5",
+    "brainrotprime92"
 }
 
 local function isWhitelisted(name)
